@@ -1,0 +1,7 @@
+{
+  "name": "BananaStudio AI",
+  "description": "A professional-grade AI product photography studio. Transform simple product shots into stunning marketing assets using Gemini 2.5 Flash Image technology.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
